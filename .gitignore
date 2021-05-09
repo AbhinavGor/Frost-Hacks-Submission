@@ -1,0 +1,4 @@
+covid_360_backend/node_modules/
+covid_360_backend/.env
+covid_360_smart_contract/.env
+covid_360_smart_contract/node_modules/
